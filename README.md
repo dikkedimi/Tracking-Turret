@@ -5,7 +5,7 @@ A motion tracking turret for https://www.youtube.com/watch?v=HoRPWUl_sF8
 
 Make sure pip is installed. 
 ```bash
-sudo apt-get install python pip
+sudo apt-get install python-pip
 ```
 
 Setup I2C on your Raspberry Pi
